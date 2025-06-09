@@ -114,7 +114,7 @@
         *   立体物理环境建模
         *   真实感渲染
         *   空间关系可视化
-*   **技术栈**: Three.js、WebGL、Plotly、D3.js、物理引擎
+*   **技术栈**: BlenderMCP、Three.js、WebGL、Plotly、D3.js、物理引擎
 *   **输出**: 多媒体可视化内容包（动画、图表、3D模型、交互组件）
 
 ### 2.5. 智能视觉校验模块（qvq-plus核心应用）
